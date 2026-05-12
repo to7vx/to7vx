@@ -8,26 +8,21 @@
 <div align="center">
 
 <!-- ─────────── HEADER BANNER ─────────── -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Ahmed%20·%20to7vx&fontSize=70&fontAlignY=35&desc=AI%20Engineer%20%7C%20Workflow%20Automation%20%7C%20Agentic%20Systems%20%7C%20Cloud%20%7C%20DevOps%20%7C%20QA&descAlignY=58&descSize=16&fontColor=ffffff&animation=fadeIn" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,12,24&height=220&section=header&text=Ahmed&fontSize=80&fontAlignY=35&desc=AI%20Engineer%20%7C%20Workflow%20Automation%20%7C%20Agentic%20Systems%20%7C%20Cloud%20%7C%20DevOps%20%7C%20QA&descAlignY=58&descSize=15&fontColor=ffffff&animation=fadeIn" alt="header" />
 
 <!-- ─────────── ANIMATED TYPING HEADLINE ─────────── -->
 <a href="https://github.com/to7vx">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=00F5A0&center=true&vCenter=true&multiline=false&width=900&height=60&lines=AI+Engineer+%E2%9A%99%EF%B8%8F+Building+agentic+workflows;Automation+Engineer+%F0%9F%A4%96+Turning+manual+ops+into+self-running+systems;Cloud+%2B+DevOps+%E2%98%81%EF%B8%8F+AWS+Solutions+Architect+%28SAA%29+in+progress;Security-aware+full-stack+%F0%9F%94%92+KAU+IT+Graduate" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&height=55&lines=AI+Engineer+building+agentic+workflows;Automating+the+boring+stuff;Cloud+%2B+DevOps+%7C+AWS+SAA+in+progress;Security-aware+full-stack+%7C+KAU+IT+Grad" alt="typing" />
 </a>
 
-<!-- ─────────── VISITOR COUNTER · PROFILE VIEWS · FOLLOWERS ─────────── -->
+<!-- ─────────── BADGES ─────────── -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=to7vx&label=Profile%20Views&color=00f5a0&style=for-the-badge" alt="views" />
-  <img src="https://img.shields.io/github/followers/to7vx?label=Followers&style=for-the-badge&color=00f5a0&labelColor=0d1117" alt="followers" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%2B%20Automation-00f5a0?style=for-the-badge&labelColor=0d1117" alt="focus" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00d4ff?style=for-the-badge&labelColor=0d1117" alt="status" />
+  <img src="https://komarev.com/ghpvc/?username=to7vx&label=Profile%20Views&color=a78bfa&style=for-the-badge" alt="views" />
+  <img src="https://img.shields.io/github/followers/to7vx?label=Followers&style=for-the-badge&color=a78bfa&labelColor=0d1117" alt="followers" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%2B%20Automation-a78bfa?style=for-the-badge&labelColor=0d1117" alt="focus" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-c084fc?style=for-the-badge&labelColor=0d1117" alt="status" />
 </p>
 
-</div>
-
-<!-- ─────────── PIXEL ART BANNER ─────────── -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation eating contributions" width="100%"/>
 </div>
 
 <br />
@@ -104,7 +99,7 @@ $ ahmed --status
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-7c3aed?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
@@ -175,7 +170,7 @@ $ ahmed --status
 <br />
 
 <!-- ═══════════════════════════════════════════════════════════════════
-     GITHUB STATS — TWO-COLUMN
+     GITHUB STATS
      ═══════════════════════════════════════════════════════════════════ -->
 
 ## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"/> &nbsp; GitHub Battle Report
@@ -183,27 +178,26 @@ $ ahmed --status
 <div align="center">
 
 <a href="https://github.com/to7vx">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=to7vx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5A0&icon_color=00D4FF&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=to7vx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5A0&text_color=FFFFFF&langs_count=8" alt="top langs" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=to7vx&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=C084FC&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=to7vx&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF&langs_count=8" alt="top langs" />
 </a>
 
 <br />
 
 <a href="https://github.com/to7vx">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=to7vx&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5A0&fire=00D4FF&currStreakLabel=00F5A0" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=to7vx&theme=radical&hide_border=true&background=0D1117&ring=A78BFA&fire=C084FC&currStreakLabel=A78BFA" alt="streak" />
 </a>
 
 <br /><br />
 
 <a href="https://github.com/to7vx">
-  <img src="https://github-profile-trophy.vercel.app/?username=to7vx&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=to7vx&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="trophies" />
 </a>
 
 <br /><br />
 
-<!-- ACTIVITY GRAPH -->
 <a href="https://github.com/to7vx">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=to7vx&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F5A0&line=00D4FF&point=FFFFFF&area=true&area_color=00F5A0" alt="activity graph" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=to7vx&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=C084FC&point=FFFFFF&area=true&area_color=A78BFA" alt="activity graph" width="98%" />
 </a>
 
 </div>
@@ -231,19 +225,6 @@ $ ahmed --status
 </td>
 <td width="50%" valign="top">
 
-### 🤖 &nbsp; AutoApply
-**Agentic job-application assistant**
-> n8n workflow that watches job feeds, uses an LLM to score each post against my CV, drafts a tailored cover letter, and logs the pipeline to a dashboard.
-
-`n8n` · `Claude` · `Webhooks` · `Notion API`
-
-[`→ view repo`](https://github.com/to7vx)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### 🏫 &nbsp; Schoolfy
 **Real-time school operations platform**
 > Graduation project — full-stack SaaS with role-based access control, real-time updates, and a security-hardened architecture. Built with Flutter + Firebase + Node.
@@ -253,15 +234,28 @@ $ ahmed --status
 [`→ view repo`](https://github.com/to7vx)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
-### ⚙️ &nbsp; IT Ops SaaS (WIP)
-**Cloud-native operations platform**
+### ⚙️ &nbsp; IT Ops SaaS
+**Cloud-native operations platform (WIP)**
 > Architecting from scratch — real-time coordination, distributed systems, and operational stability for IT teams. Cloud-native, security-first.
 
 `Node.js` · `React` · `PostgreSQL` · `Docker` · `AWS`
 
-[`→ private repo`](https://github.com/to7vx)
+[`→ view repo`](https://github.com/to7vx)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧪 &nbsp; More Coming Soon
+**Automation & AI experiments**
+> Building a pipeline of small, focused PoCs around agentic workflows, MCP servers, and DevOps tooling. Each one will land here as it ships.
+
+`n8n` · `Claude Code` · `MCP` · `GitHub Actions`
+
+[`→ explore profile`](https://github.com/to7vx)
 
 </td>
 </tr>
@@ -277,23 +271,23 @@ $ ahmed --status
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/to7vx/to7vx/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/to7vx/to7vx/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/to7vx/to7vx/output/github-contribution-grid-snake.svg" width="100%" />
   </picture>
 </div>
 
 <br />
 
 <!-- ═══════════════════════════════════════════════════════════════════
-     QUOTE OF THE DAY
+     QUOTE
      ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 ## <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="28"/> &nbsp; Today's Dev Wisdom
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote" />
 
 </div>
 
@@ -327,7 +321,7 @@ $ ahmed --status
 </div>
 
 <!-- ─────────── FOOTER WAVE ─────────── -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" alt="footer wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,12,24&height=120&section=footer" alt="footer wave" />
 
 <div align="center">
   <sub>⚡ <i>If you do it twice, automate it.</i> ⚡</sub>
