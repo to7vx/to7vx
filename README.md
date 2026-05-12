@@ -249,13 +249,13 @@ $ ahmed --status
 </td>
 <td width="50%" valign="top">
 
-### 🧪 &nbsp; More Coming Soon
-**Automation & AI experiments**
-> Building a pipeline of small, focused PoCs around agentic workflows, MCP servers, and DevOps tooling. Each one will land here as it ships.
+### 📋 &nbsp; ClaimsFlow
+**AI-powered insurance claims automation**
+> End-to-end claims processing pipeline — ingests claim documents, uses LLMs to extract structured data, validates against policy rules, and routes for approval. Cuts manual review time dramatically.
 
-`n8n` · `Claude Code` · `MCP` · `GitHub Actions`
+`Python` · `Claude API` · `n8n` · `FastAPI` · `PostgreSQL`
 
-[`→ explore profile`](https://github.com/to7vx)
+[`→ view repo`](https://github.com/to7vx)
 
 </td>
 </tr>
