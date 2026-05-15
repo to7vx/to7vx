@@ -8,11 +8,11 @@
 <div align="center">
 
 <!-- ─────────── HEADER BANNER ─────────── -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:A78BFA,100:C084FC&height=240&section=header&text=Ahmed&fontSize=85&fontAlignY=36&desc=AI%20Engineer%20%7C%20Workflow%20Automation%20%7C%20Agentic%20Systems%20%7C%20Cloud%20%7C%20DevOps%20%7C%20QA&descAlignY=60&descSize=15&fontColor=ffffff&animation=twinkling" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:A78BFA,100:C084FC&height=240&section=header&text=Ahmed&fontSize=85&fontAlignY=36&desc=AI%20Engineer%20%7C%20Workflow%20Automation%20%7C%20Agentic%20Systems%20%7C%20Cloud%20%7C%20DevOps%20%7C%20QA&descAlignY=60&descSize=15&fontColor=ffffff&animation=fadeIn" alt="header" />
 
 <!-- ─────────── ANIMATED TYPING HEADLINE ─────────── -->
 <a href="https://github.com/to7vx">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&height=55&lines=AI+Engineer+building+agentic+workflows;Automating+the+boring+stuff;Cloud+%2B+DevOps+%7C+AWS+SAA+in+progress;Security-aware+full-stack+%7C+KAU+IT+Grad" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&height=55&lines=AI+Engineer+building+agentic+workflows;Automating+the+boring+stuff;Building+autonomous+QA+agents+that+test+themselves;Cloud+%2B+DevOps+%7C+KAU+IT+Grad" alt="typing" />
 </a>
 
 </div>
