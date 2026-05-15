@@ -8,7 +8,7 @@
 <div align="center">
 
 <!-- ─────────── HEADER BANNER ─────────── -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,12,24&height=220&section=header&text=Ahmed&fontSize=80&fontAlignY=35&desc=AI%20Engineer%20%7C%20Workflow%20Automation%20%7C%20Agentic%20Systems%20%7C%20Cloud%20%7C%20DevOps%20%7C%20QA&descAlignY=58&descSize=15&fontColor=ffffff&animation=fadeIn" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:A78BFA,100:C084FC&height=240&section=header&text=Ahmed&fontSize=85&fontAlignY=36&desc=AI%20Engineer%20%7C%20Workflow%20Automation%20%7C%20Agentic%20Systems%20%7C%20Cloud%20%7C%20DevOps%20%7C%20QA&descAlignY=60&descSize=15&fontColor=ffffff&animation=twinkling" alt="header" />
 
 <!-- ─────────── ANIMATED TYPING HEADLINE ─────────── -->
 <a href="https://github.com/to7vx">
@@ -184,4 +184,4 @@
 </div>
 
 <!-- ─────────── FOOTER WAVE ─────────── -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,12,24&height=120&section=footer" alt="footer wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C084FC,50:A78BFA,100:7C3AED&height=130&section=footer" alt="footer wave" />
