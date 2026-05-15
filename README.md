@@ -15,74 +15,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&height=55&lines=AI+Engineer+building+agentic+workflows;Automating+the+boring+stuff;Cloud+%2B+DevOps+%7C+AWS+SAA+in+progress;Security-aware+full-stack+%7C+KAU+IT+Grad" alt="typing" />
 </a>
 
-<!-- ─────────── BADGES ─────────── -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=to7vx&label=Profile%20Views&color=a78bfa&style=for-the-badge" alt="views" />
-  <img src="https://img.shields.io/github/followers/to7vx?label=Followers&style=for-the-badge&color=a78bfa&labelColor=0d1117" alt="followers" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%2B%20Automation-a78bfa?style=for-the-badge&labelColor=0d1117" alt="focus" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-c084fc?style=for-the-badge&labelColor=0d1117" alt="status" />
-</p>
-
 </div>
-
-<br />
-
-<!-- ═══════════════════════════════════════════════════════════════════
-     ABOUT ME
-     ═══════════════════════════════════════════════════════════════════ -->
-
-<table>
-<tr>
-<td width="60%" valign="top">
-
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> &nbsp; whoami
-
-```yaml
-name:        Ahmed
-handle:      to7vx
-role:        AI & Automation Engineer
-location:    Jeddah, Saudi Arabia 🇸🇦
-education:   B.Sc. IT — King Abdulaziz University
-specialty:   Network Administration & Security
-focus:       Agentic workflows · LLM orchestration · Cloud-native
-cert:        AWS Solutions Architect (SAA) — in progress
-mindset:     "If I do it twice, I automate it."
-```
-
-I work at the intersection of **software, cloud, and AI-driven automation** —
-turning manual processes into **intelligent, self-running systems**.
-
-I build **agentic workflows** with `n8n`, `Claude Code`, and `MCP`-based agents,
-ship **full-stack apps** in `Python`/`Node`/`React`/`Flutter`, and architect
-**cloud-native systems** with a **security-first** mindset.
-
-</td>
-<td width="40%" valign="top">
-
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/programming.gif" width="100%" alt="coding pixel art" />
-
-</td>
-</tr>
-</table>
-
-<!-- ═══════════════════════════════════════════════════════════════════
-     WHAT I'M UP TO
-     ═══════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28" /> &nbsp; What I'm Up To
-
-```bash
-$ ahmed --status
-```
-
-```diff
-+ 🔨 Building   → IT Operations SaaS Platform (real-time coordination, cloud-native)
-+ 🤖 Exploring  → Agentic AI workflows (n8n × Claude Code × MCP)
-+ ☁️  Studying   → AWS Solutions Architect — Associate (SAA-C03)
-+ 🔒 Bringing   → Security-aware architecture to everything I ship
-+ 🎯 Targeting  → AI Engineering · Automation · Cloud · DevOps · QA roles
-! 🤝 Open to    → Collaboration on agentic AI & automation projects
-```
 
 <br />
 
@@ -147,12 +80,12 @@ $ ahmed --status
 
 #### 🔒 &nbsp; Security · QA · Testing
 <p>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
 </p>
 
 #### 🛠️ &nbsp; Tools
@@ -170,41 +103,6 @@ $ ahmed --status
 <br />
 
 <!-- ═══════════════════════════════════════════════════════════════════
-     GITHUB STATS
-     ═══════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"/> &nbsp; GitHub Battle Report
-
-<div align="center">
-
-<a href="https://github.com/to7vx">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=to7vx&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=C084FC&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=to7vx&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF&langs_count=8" alt="top langs" />
-</a>
-
-<br />
-
-<a href="https://github.com/to7vx">
-  <img src="https://streak-stats.demolab.com?user=to7vx&theme=radical&hide_border=true&background=0D1117&ring=A78BFA&fire=C084FC&currStreakLabel=A78BFA" alt="streak" />
-</a>
-
-<br /><br />
-
-<a href="https://github.com/to7vx">
-  <img src="https://github-profile-trophy.vercel.app/?username=to7vx&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="trophies" />
-</a>
-
-<br /><br />
-
-<a href="https://github.com/to7vx">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=to7vx&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=C084FC&point=FFFFFF&area=true&area_color=A78BFA" alt="activity graph" width="98%" />
-</a>
-
-</div>
-
-<br />
-
-<!-- ═══════════════════════════════════════════════════════════════════
      FEATURED PROJECTS
      ═══════════════════════════════════════════════════════════════════ -->
 
@@ -212,6 +110,17 @@ $ ahmed --status
 
 <table>
 <tr>
+<td width="50%" valign="top">
+
+### 🤖 &nbsp; QA-agent
+**Autonomous browser test authoring**
+> Give it a URL, get a runnable Playwright suite in under 60 seconds. Four-stage agent (explore → generate → execute → heal) that re-captures the live DOM and uses Claude to repair broken selectors, refusing to act below a 0.7 confidence gate so every healing decision is auditable.
+
+`Python` · `Playwright` · `Claude API` · `Pydantic` · `Click`
+
+[`→ view repo`](https://github.com/to7vx/QA-agent)
+
+</td>
 <td width="50%" valign="top">
 
 ### 🛡️ &nbsp; SecureWatch
@@ -223,6 +132,8 @@ $ ahmed --status
 [`→ view repo`](https://github.com/to7vx)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🏫 &nbsp; Schoolfy
@@ -230,19 +141,6 @@ $ ahmed --status
 > Graduation project — full-stack SaaS with role-based access control, real-time updates, and a security-hardened architecture. Built with Flutter + Firebase + Node.
 
 `Flutter` · `Firebase` · `Node.js` · `RBAC`
-
-[`→ view repo`](https://github.com/to7vx)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⚙️ &nbsp; IT Ops SaaS
-**Cloud-native operations platform (WIP)**
-> Architecting from scratch — real-time coordination, distributed systems, and operational stability for IT teams. Cloud-native, security-first.
-
-`Node.js` · `React` · `PostgreSQL` · `Docker` · `AWS`
 
 [`→ view repo`](https://github.com/to7vx)
 
@@ -279,42 +177,7 @@ $ ahmed --status
 
 <br />
 
-<!-- ═══════════════════════════════════════════════════════════════════
-     QUOTE
-     ═══════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
-
-## <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="28"/> &nbsp; Today's Dev Wisdom
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote" />
-
-</div>
-
-<br />
-
-<!-- ═══════════════════════════════════════════════════════════════════
-     CONNECT
-     ═══════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"/> &nbsp; Let's Connect
-
-<div align="center">
-
-<a href="https://linkedin.com/in/to7vx">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:your.email@example.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/to7vx">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://twitter.com/to7vx">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-
-<br /><br />
 
 <i>💬 &nbsp; Open to opportunities in <b>AI Engineering</b> · <b>Workflow Automation</b> · <b>Cloud Infrastructure</b> · <b>DevOps</b> · <b>QA</b></i>
 
@@ -322,7 +185,3 @@ $ ahmed --status
 
 <!-- ─────────── FOOTER WAVE ─────────── -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,12,24&height=120&section=footer" alt="footer wave" />
-
-<div align="center">
-  <sub>⚡ <i>If you do it twice, automate it.</i> ⚡</sub>
-</div>
